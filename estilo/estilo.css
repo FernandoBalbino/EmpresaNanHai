@@ -1,0 +1,178 @@
+#main{
+			background-image: url(photo.jpg);
+			height: 100vh;
+			background-size: cover;
+			background-position: left center;
+			font-family: "Karla", Arial, sans-serif;
+			position: relative;
+			margin-bottom: 86px;
+		}
+		.navbar-brand{
+			letter-spacing: 3px;
+			font-size: 25px;
+			
+		}
+		label{
+			color: #FDB400;
+			font-size: 20px;
+		}
+
+
+		.navbar {
+			background-color:white;
+			box-shadow: 5px 3px 30px black;
+		}
+		
+		#logo{
+			color: black;
+		}
+		.fa-bars{
+			color: black;
+		}
+		h2{
+			border-bottom: 1px solid #FDB400;
+			font-family: "KoHo", Arial, sans-serif;
+		}
+		.svg{
+			position: absolute;
+    		bottom: 0;
+    		left: 0;
+    		height: 3rem;
+    		width: 100%;
+    		color: white;
+		}
+		#comp{
+			margin-left:20px;
+		}
+		.col-sm-7 h1{
+			font-size: 150px;
+			border-bottom: 1px solid white;
+			border-left: 1px solid white;
+			margin-bottom: 0;
+			font-family: "KoHo", Arial, sans-serif;
+		}
+		.text-about{
+			text-align: center;
+			margin-top: 20px;
+		}
+
+		.nanhai{
+			display: inline-block;
+			color:#FDB400;
+			border-bottom: 1px solid #FDB400; 
+			letter-spacing: 2px;
+			font-weight: bold;
+		}
+		.inputs{
+			border-bottom: 1px solid black;
+			border-left: none;
+			border-right: none;
+			border-top: none;
+			border-radius: none;
+		}
+		.section{
+			margin-top: 50px;
+		
+		}
+
+		html{
+			background-color: #FDB400;
+		}
+
+		.form-contact{
+			padding:20px;
+			border-left: #FDB400 1px solid;
+		}
+		.form-control{
+			border-radius: 0;
+		}
+		
+			.col-sm-7 p{
+				border-left: 1px solid white;
+				font-size: 30px;
+				padding-left: 10px;
+			}
+			.section span{
+				color:white;
+				border-bottom: 1px solid white;
+			}
+			#footer{
+				background-color: #FDB400;
+				padding-top: 15px;
+			}
+			span{
+				color:#FBB600;
+				font-family: "KoHo", Arial, sans-serif;
+				letter-spacing: 5px;
+			}
+			.produtos{
+				border-bottom: 1px solid #FDB400;
+			}
+			.divisor{
+				border-bottom: 1px solid #FDB400;
+			}
+			#footer a{
+				color: white;
+				text-decoration: none;
+			}
+			#t-s{
+				display: block;
+				text-align: center;
+				font-size: 50px;
+			}
+			
+		.nav-link{
+			color: black;
+		}
+			.row{
+				margin-bottom: 30px;
+			}
+		@media (max-width: 400px) {
+			.col-sm-7 h1{
+			font-size: 70px;
+			
+		}
+		.navbar-nav .nav-link{
+			text-align: center;
+		}
+		
+		#comp{
+			display: block;
+			margin: 0;
+		}
+		
+
+		}
+
+
+		@media (min-width: 400.98px) {
+			.col-sm-7 h1{
+			font-size: 100px;
+			
+		}
+		}
+
+
+		@media (min-width: 560px) {
+			.col-sm-7 h1{
+			font-size: 100px;
+			
+		}
+
+		}
+
+
+		@media (min-width:780px) {
+			.col-sm-7 h1{
+			font-size: 130px;
+			
+		}
+		}
+
+
+		@media (min-width: 1300px) {
+			.col-sm-7 h1{
+			font-size: 160px;
+			
+		}
+		}
